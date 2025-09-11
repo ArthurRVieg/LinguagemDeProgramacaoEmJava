@@ -1,0 +1,31 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+modules.xml
+workspace.xml
+.nav
+*.swp
+*.swo
+
+# Diretórios de build
+out/
+build/
+target/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Dependências (se aplicável)
+lib/
+libs/
